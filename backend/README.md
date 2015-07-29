@@ -4,22 +4,19 @@
 
 ## Guidelines
 
-- clone this repo (do **not** fork it)
-- solve the levels in ascending order
-- commit your code at the end of each level
-- once you are ready, add someone from drivy to the repo so that we can review your code
+Ici chez Octoly, on aime beaucoup le Ruby. Il est utilisé en production pour l’application web, mais parfois aussi en scripting pour accomplir des taches diverses. C’est sur cette environnement que vous travaillerez avec nous au quotidien !
+Une partie de ce travail est de calculer des statistiques à partir de vidéos YouTube.
 
-You can have a look at the higher levels, but please do the **simplest thing** that could work for the level you're currently solving.
+Vous trouverez un fichier JSON (videos.json) comprenant des méta-données correspondant à des vidéos.
 
-Disclaimer: the levels become more complex over time, so you will probably have to re-use some code and adapt it to the new requirements.
-A good way to solve this is by using OOP and adding new layers of abstraction only when they become necessary.
+### Les règles du jeu :
+Votre code doit être en Ruby uniquement. Si vous n’en avez jamais fait, ce n’est pas grave, vous apprendrez vite :-)
+Si vous êtes en environnement UNIX, il vous sera facile d’accéder à une console ruby. Sinon, jetez un oeil à http://rubyinstaller.org
+Vous devez IMPERATIVEMENT nous envoyer votre code
 
-For higher levels we are interested in seeing code that is:
-- clean
-- extensible
-- robust (don't overlook edge cases, use exceptions where needed, ...)
+### Le but du jeu :
+Lire le fichier JSON
+Trouver le topic ID qui a le plus de vues. Un topic ID = 1 éléments du Array topic_ids.
+Multiplier son nombre de vues, likes et dislikes, et…. nous envoyer un mail à xxxxxxx@octoly.com
 
-
-## Things to know
-
-- ?
+Bon courage !
