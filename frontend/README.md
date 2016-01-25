@@ -42,7 +42,6 @@ Voici ce que doit contenir la page (dans l'ordre d'affichage des éléments):
 ### Design
 Il vous faudra respecter les contraintes suivantes:
 * Le texte par défaut:
-
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     color: #333;
