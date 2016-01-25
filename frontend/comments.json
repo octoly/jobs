@@ -1,0 +1,11 @@
+[
+  {
+    "id":1,
+    "author":"lou",
+    "text":"This product is awesome!"
+  },{
+    "id": 2,
+    "author":"fab",
+    "text":"I just received it and it looks great!"
+  }
+]
