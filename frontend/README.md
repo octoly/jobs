@@ -17,13 +17,13 @@ Pour info, chez Octoly on utilise les technos suivantes:
 
 ## Les règles du jeu :
 Intégrer la page de commentaires suivante:
-![alt tag](https://raw.github.com/octoly/jobs/tree/master/images/frontend.jpg)
+![alt tag](https://raw.github.com/octoly/jobs/master/images/frontend.jpg)
 
 Voici ce que doit contenir la page (dans l'ordre d'affichage des éléments):
 
 * Le titre "Comments" avec à côté le nombre de commentaires affichés
 * La liste des commentaires
-  * Pour chaque commentaire on affiche l'auteur du commentaire et le text associé
+  * Pour chaque commentaire on affiche l'auteur du commentaire et le texte associé
 * Le formulaire pour poster un commentaire
   * Un champ texte pour rentrer le nom de l'auteur
   * Un champ texte pour rentrer le text du commentaire
