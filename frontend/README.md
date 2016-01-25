@@ -15,7 +15,7 @@ Pour info, chez Octoly on utilise les technos suivantes:
 * SASS (http://sass-lang.com/)
 
 
-### Les règles du jeu :
+## Les règles du jeu :
 Intégrer la page de commentaires suivante:
 ![alt tag](https://raw.github.com/octoly/jobs/tree/master/images/frontend.jpg)
 
@@ -31,14 +31,14 @@ Voici ce que doit contenir la page (dans l'ordre d'affichage des éléments):
 À la racine de ce projet vous trouverez fichier JSON comments.json que vous devrez utiliser pour charger les commentaires existants.
 
 
-#### Évènements:
+### Évènements:
 * Validation du formulaire:
   * création d'un nouveau commentaire qui est ajouté à la suite de la liste des commentaires existants
   * le décompte des commentaires (à droite du titre "Comments") est mis à jour
 
 **Attention** : On ne peut pas poster de commentaire si le champ auteur et/ou commentaire est vide.
 
-#### Design
+### Design
 Il vous faudra respecter les contraintes suivantes:
 * Le texte par défaut:
 
