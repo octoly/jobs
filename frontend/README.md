@@ -25,10 +25,11 @@ Voici ce que doit contenir la page (dans l'ordre d'affichage des éléments):
 * La liste des commentaires
   * Pour chaque commentaire on affiche l'auteur du commentaire et le texte associé
 * Le formulaire pour poster un commentaire
+  * Le titre "Post a comment" 
   * Un champ texte pour rentrer le nom de l'auteur
   * Un champ texte pour rentrer le text du commentaire
 
-À la racine de ce projet vous trouverez fichier JSON comments.json que vous devrez utiliser pour charger les commentaires existants.
+À la racine de ce projet vous trouverez un fichier JSON comments.json que vous devrez utiliser pour charger les commentaires existants.
 
 
 ### Évènements:
