@@ -17,7 +17,7 @@ Pour info, chez Octoly on utilise les technos suivantes:
 
 ## Les règles du jeu :
 Intégrer la page de commentaires suivante:
-![alt tag](https://raw.github.com/octoly/jobs/master/images/frontend.jpg)
+![comments](https://raw.github.com/octoly/jobs/master/images/comments.jpg)
 
 Voici ce que doit contenir la page (dans l'ordre d'affichage des éléments):
 
