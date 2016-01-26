@@ -56,6 +56,7 @@ Il faut que la page soit jolie sur toutes les tailles d'écran et sur tous les b
 
 ### bonus
 * Rendre les commentaires persitents grâce au local storage (http://www.w3schools.com/HTML/html5_webstorage.asp)
+* Pouvoir supprimer/editer les commentaires
 * Tester votre code (ie: https://jasmine.github.io/2.4/introduction.html)
 
 Have fun !
