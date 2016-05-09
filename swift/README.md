@@ -20,10 +20,10 @@
 
 		Already have an account? **Sign In**
 
-4. Inside Label Controller animate the label (y-100px) when the view appear
+4. Inside Label Controller animate (0.3) the label (y-100px) when the view appear
 
 5. Open Collection Controller and:
-	* change the height of the cells
+	* change the height of the cells to 200px
 	* add a tap gesture to the cell to open function openProduct with the sender
 	* inside openProduct call the function SignInController.login()
 
