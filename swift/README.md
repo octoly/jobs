@@ -18,7 +18,7 @@
 
 3. Open Label Controller and add the following text (normal/bold) to the label:
 
-	> Already have an account? __Sign In__
+		Already have an account? **Sign In**
 
 4. Inside Label Controller animate the label (y-100px) when the view appear
 	* open Collection Controller and:
