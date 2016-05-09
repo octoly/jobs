@@ -21,11 +21,12 @@
 		Already have an account? **Sign In**
 
 4. Inside Label Controller animate the label (y-100px) when the view appear
-	* open Collection Controller and:
+
+5. Open Collection Controller and:
 	* change the height of the cells
 	* add a tap gesture to the cell to open function openProduct with the sender
 	* inside openProduct call the function SignInController.login()
 
-5. Consider the app to have a badge at "1", put it back to "0"
+6. Consider the app to have a badge at "1", put it back to "0"
 
-6. Add the Mixpanel pod to the project
+7. Add the Mixpanel pod to the project
