@@ -24,8 +24,8 @@
 
 5. Open Collection Controller and:
 	* change the height of the cells to 200px
-	* add a tap gesture to the cell to open function openProduct with the sender
-	* inside openProduct call the function SignInController.login()
+	* create a function selectProduct which call the function SignInController.login()
+	* add a tap gesture to the cell to open that function selectProduct (use Protocol Delegate)
 
 6. Consider the app to have a badge at "1", put it back to "0"
 
